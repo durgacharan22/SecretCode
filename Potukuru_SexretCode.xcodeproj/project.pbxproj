@@ -14,6 +14,7 @@
 		921D7C4820487125009B40AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 921D7C4620487125009B40AF /* LaunchScreen.storyboard */; };
 		921D7C5320487125009B40AF /* Potukuru_SexretCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C5220487125009B40AF /* Potukuru_SexretCodeTests.swift */; };
 		921D7C5E20487125009B40AF /* Potukuru_SexretCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C5D20487125009B40AF /* Potukuru_SexretCodeUITests.swift */; };
+		921D7C6C2048715F009B40AF /* CodeWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C6B2048715F009B40AF /* CodeWord.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		921D7C5920487125009B40AF /* Potukuru_SexretCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Potukuru_SexretCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		921D7C5D20487125009B40AF /* Potukuru_SexretCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Potukuru_SexretCodeUITests.swift; sourceTree = "<group>"; };
 		921D7C5F20487125009B40AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		921D7C6B2048715F009B40AF /* CodeWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodeWord.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				921D7C4420487125009B40AF /* Assets.xcassets */,
 				921D7C4620487125009B40AF /* LaunchScreen.storyboard */,
 				921D7C4920487125009B40AF /* Info.plist */,
+				921D7C6B2048715F009B40AF /* CodeWord.swift */,
 			);
 			path = Potukuru_SexretCode;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				921D7C4020487125009B40AF /* ViewController.swift in Sources */,
 				921D7C3E20487125009B40AF /* AppDelegate.swift in Sources */,
+				921D7C6C2048715F009B40AF /* CodeWord.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
