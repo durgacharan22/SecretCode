@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		921D7C3E20487125009B40AF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C3D20487125009B40AF /* AppDelegate.swift */; };
+		921D7C4020487125009B40AF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C3F20487125009B40AF /* ViewController.swift */; };
+		921D7C4320487125009B40AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 921D7C4120487125009B40AF /* Main.storyboard */; };
+		921D7C4520487125009B40AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 921D7C4420487125009B40AF /* Assets.xcassets */; };
+		921D7C4820487125009B40AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 921D7C4620487125009B40AF /* LaunchScreen.storyboard */; };
+		921D7C5320487125009B40AF /* Potukuru_SexretCodeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C5220487125009B40AF /* Potukuru_SexretCodeTests.swift */; };
+		921D7C5E20487125009B40AF /* Potukuru_SexretCodeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 921D7C5D20487125009B40AF /* Potukuru_SexretCodeUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		921D7C4F20487125009B40AF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 921D7C3220487124009B40AF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 921D7C3920487124009B40AF;
+			remoteInfo = Potukuru_SexretCode;
+		};
+		921D7C5A20487125009B40AF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 921D7C3220487124009B40AF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 921D7C3920487124009B40AF;
+			remoteInfo = Potukuru_SexretCode;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		921D7C3A20487125009B40AF /* Potukuru_SexretCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Potukuru_SexretCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		921D7C3D20487125009B40AF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		921D7C3F20487125009B40AF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		921D7C4220487125009B40AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		921D7C4420487125009B40AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		921D7C4720487125009B40AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		921D7C4920487125009B40AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		921D7C4E20487125009B40AF /* Potukuru_SexretCodeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Potukuru_SexretCodeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		921D7C5220487125009B40AF /* Potukuru_SexretCodeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Potukuru_SexretCodeTests.swift; sourceTree = "<group>"; };
+		921D7C5420487125009B40AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		921D7C5920487125009B40AF /* Potukuru_SexretCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Potukuru_SexretCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		921D7C5D20487125009B40AF /* Potukuru_SexretCodeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Potukuru_SexretCodeUITests.swift; sourceTree = "<group>"; };
+		921D7C5F20487125009B40AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		921D7C3720487124009B40AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C4B20487125009B40AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C5620487125009B40AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		921D7C3120487124009B40AF = {
+			isa = PBXGroup;
+			children = (
+				921D7C3C20487125009B40AF /* Potukuru_SexretCode */,
+				921D7C5120487125009B40AF /* Potukuru_SexretCodeTests */,
+				921D7C5C20487125009B40AF /* Potukuru_SexretCodeUITests */,
+				921D7C3B20487125009B40AF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		921D7C3B20487125009B40AF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				921D7C3A20487125009B40AF /* Potukuru_SexretCode.app */,
+				921D7C4E20487125009B40AF /* Potukuru_SexretCodeTests.xctest */,
+				921D7C5920487125009B40AF /* Potukuru_SexretCodeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		921D7C3C20487125009B40AF /* Potukuru_SexretCode */ = {
+			isa = PBXGroup;
+			children = (
+				921D7C3D20487125009B40AF /* AppDelegate.swift */,
+				921D7C3F20487125009B40AF /* ViewController.swift */,
+				921D7C4120487125009B40AF /* Main.storyboard */,
+				921D7C4420487125009B40AF /* Assets.xcassets */,
+				921D7C4620487125009B40AF /* LaunchScreen.storyboard */,
+				921D7C4920487125009B40AF /* Info.plist */,
+			);
+			path = Potukuru_SexretCode;
+			sourceTree = "<group>";
+		};
+		921D7C5120487125009B40AF /* Potukuru_SexretCodeTests */ = {
+			isa = PBXGroup;
+			children = (
+				921D7C5220487125009B40AF /* Potukuru_SexretCodeTests.swift */,
+				921D7C5420487125009B40AF /* Info.plist */,
+			);
+			path = Potukuru_SexretCodeTests;
+			sourceTree = "<group>";
+		};
+		921D7C5C20487125009B40AF /* Potukuru_SexretCodeUITests */ = {
+			isa = PBXGroup;
+			children = (
+				921D7C5D20487125009B40AF /* Potukuru_SexretCodeUITests.swift */,
+				921D7C5F20487125009B40AF /* Info.plist */,
+			);
+			path = Potukuru_SexretCodeUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		921D7C3920487124009B40AF /* Potukuru_SexretCode */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 921D7C6220487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCode" */;
+			buildPhases = (
+				921D7C3620487124009B40AF /* Sources */,
+				921D7C3720487124009B40AF /* Frameworks */,
+				921D7C3820487124009B40AF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Potukuru_SexretCode;
+			productName = Potukuru_SexretCode;
+			productReference = 921D7C3A20487125009B40AF /* Potukuru_SexretCode.app */;
+			productType = "com.apple.product-type.application";
+		};
+		921D7C4D20487125009B40AF /* Potukuru_SexretCodeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 921D7C6520487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCodeTests" */;
+			buildPhases = (
+				921D7C4A20487125009B40AF /* Sources */,
+				921D7C4B20487125009B40AF /* Frameworks */,
+				921D7C4C20487125009B40AF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				921D7C5020487125009B40AF /* PBXTargetDependency */,
+			);
+			name = Potukuru_SexretCodeTests;
+			productName = Potukuru_SexretCodeTests;
+			productReference = 921D7C4E20487125009B40AF /* Potukuru_SexretCodeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		921D7C5820487125009B40AF /* Potukuru_SexretCodeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 921D7C6820487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCodeUITests" */;
+			buildPhases = (
+				921D7C5520487125009B40AF /* Sources */,
+				921D7C5620487125009B40AF /* Frameworks */,
+				921D7C5720487125009B40AF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				921D7C5B20487125009B40AF /* PBXTargetDependency */,
+			);
+			name = Potukuru_SexretCodeUITests;
+			productName = Potukuru_SexretCodeUITests;
+			productReference = 921D7C5920487125009B40AF /* Potukuru_SexretCodeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		921D7C3220487124009B40AF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Potukuru,Durga Charan";
+				TargetAttributes = {
+					921D7C3920487124009B40AF = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					921D7C4D20487125009B40AF = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 921D7C3920487124009B40AF;
+					};
+					921D7C5820487125009B40AF = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 921D7C3920487124009B40AF;
+					};
+				};
+			};
+			buildConfigurationList = 921D7C3520487124009B40AF /* Build configuration list for PBXProject "Potukuru_SexretCode" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 921D7C3120487124009B40AF;
+			productRefGroup = 921D7C3B20487125009B40AF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				921D7C3920487124009B40AF /* Potukuru_SexretCode */,
+				921D7C4D20487125009B40AF /* Potukuru_SexretCodeTests */,
+				921D7C5820487125009B40AF /* Potukuru_SexretCodeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		921D7C3820487124009B40AF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921D7C4820487125009B40AF /* LaunchScreen.storyboard in Resources */,
+				921D7C4520487125009B40AF /* Assets.xcassets in Resources */,
+				921D7C4320487125009B40AF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C4C20487125009B40AF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C5720487125009B40AF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		921D7C3620487124009B40AF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921D7C4020487125009B40AF /* ViewController.swift in Sources */,
+				921D7C3E20487125009B40AF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C4A20487125009B40AF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921D7C5320487125009B40AF /* Potukuru_SexretCodeTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		921D7C5520487125009B40AF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				921D7C5E20487125009B40AF /* Potukuru_SexretCodeUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		921D7C5020487125009B40AF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 921D7C3920487124009B40AF /* Potukuru_SexretCode */;
+			targetProxy = 921D7C4F20487125009B40AF /* PBXContainerItemProxy */;
+		};
+		921D7C5B20487125009B40AF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 921D7C3920487124009B40AF /* Potukuru_SexretCode */;
+			targetProxy = 921D7C5A20487125009B40AF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		921D7C4120487125009B40AF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				921D7C4220487125009B40AF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		921D7C4620487125009B40AF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				921D7C4720487125009B40AF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		921D7C6020487125009B40AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		921D7C6120487125009B40AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		921D7C6320487125009B40AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCode/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCode";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		921D7C6420487125009B40AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCode/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCode";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		921D7C6620487125009B40AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCodeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCodeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Potukuru_SexretCode.app/Potukuru_SexretCode";
+			};
+			name = Debug;
+		};
+		921D7C6720487125009B40AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCodeTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCodeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Potukuru_SexretCode.app/Potukuru_SexretCode";
+			};
+			name = Release;
+		};
+		921D7C6920487125009B40AF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCodeUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCodeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Potukuru_SexretCode;
+			};
+			name = Debug;
+		};
+		921D7C6A20487125009B40AF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Potukuru_SexretCodeUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.nwmissouri.potukuru.Potukuru-SexretCodeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Potukuru_SexretCode;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		921D7C3520487124009B40AF /* Build configuration list for PBXProject "Potukuru_SexretCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				921D7C6020487125009B40AF /* Debug */,
+				921D7C6120487125009B40AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		921D7C6220487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCode" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				921D7C6320487125009B40AF /* Debug */,
+				921D7C6420487125009B40AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		921D7C6520487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCodeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				921D7C6620487125009B40AF /* Debug */,
+				921D7C6720487125009B40AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		921D7C6820487125009B40AF /* Build configuration list for PBXNativeTarget "Potukuru_SexretCodeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				921D7C6920487125009B40AF /* Debug */,
+				921D7C6A20487125009B40AF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 921D7C3220487124009B40AF /* Project object */;
+}
